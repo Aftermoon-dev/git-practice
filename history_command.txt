@@ -1,0 +1,5 @@
+    1  clear
+    2  help man
+    3  clear
+    4  cat words.txt
+    5  cat sorted_words.txt
