@@ -1,0 +1,6 @@
+total 8
+-rw-r--r--  1 aftermoon  staff    51B 10 15 16:44 README.md
+-rw-r--r--  1 aftermoon  staff     0B 10 15 16:47 file_list.txt
+total 16
+-rw-r--r--  1 aftermoon  staff    51B 10 15 16:44 README.md
+-rw-r--r--  1 aftermoon  staff   132B 10 15 16:47 file_list.txt
